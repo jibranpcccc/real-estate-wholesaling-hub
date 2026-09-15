@@ -1,17 +1,17 @@
 [
   {
-    "id": "real-estate-wholesaling-hub-forum-20260915-1",
-    "title": "Bogleheads Forum Community",
-    "platform": "Forum",
-    "category": "Passive Investing",
-    "memberCount": "250,000+ members",
-    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
-    "joinUrl": "https://bogleheads.org/forum/",
+    "id": "real-estate-wholesaling-hub-reddit-20260915-1",
+    "title": "r/realestateinvesting Wholesaling Forum",
+    "platform": "Reddit",
+    "category": "Real Estate Wholesaling",
+    "memberCount": "780,000+ members",
+    "description": "Off-market deal sourcing, driving for dollars, assignment contracts, title company workflows, and motivated seller marketing campaigns.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
     "tags": [
-      "bogleheads",
-      "indexing",
-      "forum",
-      "passive-investing"
+      "real-estate",
+      "wholesaling",
+      "property",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
@@ -93,24 +93,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "real-estate-wholesaling-hub-reddit-1",
-    "title": "Real Estate Investing Forum",
-    "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "2,100,000+ members",
-    "description": "Premier global forum for real estate investors, BRRRR strategy, wholesaling tips, and rental portfolio scaling.",
-    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
-    "tags": [
-      "real-estate",
-      "brrrr",
-      "investing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "real-estate-wholesaling-hub-reddit-2",
